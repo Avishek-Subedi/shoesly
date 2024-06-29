@@ -1,0 +1,9 @@
+name: shoesly
+description: monorepo for shoesly
+publish_to: none
+
+environment:
+  sdk: ">=3.0.3 <4.0.0"
+
+dev_dependencies:
+  melos: ^3.1.0

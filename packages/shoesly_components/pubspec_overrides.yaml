@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: shoesly,shoesly_resources
+dependency_overrides:
+  shoesly:
+    path: ../kliq
+  shoesly_resources:
+    path: ../shoesly_resources

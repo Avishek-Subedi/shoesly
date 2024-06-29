@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: shoesly_components,shoesly_resources
+dependency_overrides:
+  shoesly_components:
+    path: ../shoesly_components
+  shoesly_resources:
+    path: ../shoesly_resources
